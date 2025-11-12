@@ -1,0 +1,5 @@
+{
+  "name": "SehatSense",
+  "description": "An AI-powered health tracking web application for Indians managing multiple metabolic conditions like pre-diabetes, fatty liver, and high cholesterol. It features an AI medical report analyzer, a food intelligence engine, an AI health coach, a food diary, meal suggestions, and a health insights dashboard.",
+  "requestFramePermissions": []
+}
